@@ -2,9 +2,9 @@
 
 ## Sobre
 
-## Video
+O contador de decadas foi um trabalho academico de hardware, elaborado no 2° período do curso de engenharia de computação. Com o objetivo de aprender um pouco mais sobre circuitos integrados
 
-## Objetivo
+## Video
 
 ## Componentes
 
@@ -24,8 +24,4 @@ Esse trabalho foi elaborado com muito carinho por
 - Bia
 - Mari
 - Paula Talim: 
-
-
 - Yago
-
-
