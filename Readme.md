@@ -21,7 +21,10 @@ O contador de decadas foi um trabalho academico de hardware, elaborado no 2° pe
 Esse trabalho foi elaborado com muito carinho por
 
 - Ana
-- Bia
-- Mari
-- Paula Talim: 
-- Yago
+- Beatriz Keppel
+- Mariana Aram
+- Paula Talim
+     <!-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paula-talim-693120246/) 
+    
+    [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paula-Talim) -->
+- Yago Garzon
