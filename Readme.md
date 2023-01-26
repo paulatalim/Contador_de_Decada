@@ -8,12 +8,12 @@
 
 ## Componentes
 
-- CD4026
+- Botão
+- Circuito Integrado CD4026
 - Circuito Integrado NE555P
 - Display de 7 segmentos
-- capacitor 10us
-- resistores 
-
+- Capacitor 10us
+- Resistores 
 - Placa protoborad e jumpers
 
 ## Créditos
