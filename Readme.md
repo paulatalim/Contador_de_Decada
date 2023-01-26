@@ -2,9 +2,9 @@
 
 ## Sobre
 
-O contador de decadas foi um trabalho academico de hardware, elaborado no 2° período do curso de engenharia de computação. Com o objetivo de aprender um pouco mais sobre circuitos integrados
+O contador de décadas foi um trabalho acadêmico de hardware, elaborado no 2° período do curso de graduação de Engenharia de Computação. Com o objetivo de aprender um pouco mais sobre circuitos integrados.
 
-## Video
+<!-- ## Vídeo -->
 
 ## Componentes
 
