@@ -1,4 +1,4 @@
-# Contador de decada
+# Contador de Década
 
 ## Sobre
 
@@ -9,7 +9,7 @@ O contador de décadas foi um trabalho acadêmico de hardware, elaborado no 2° 
 
 ## Componentes
 
-- Botão
+- Botão (botão reset)
 - Circuito Integrado CD4026
 - Circuito Integrado NE555P
 - Display de 7 segmentos
