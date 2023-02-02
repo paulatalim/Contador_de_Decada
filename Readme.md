@@ -5,7 +5,7 @@
 O contador de décadas foi um trabalho acadêmico de hardware, elaborado no 2° período do curso de graduação de Engenharia de Computação. Com o objetivo de aprender um pouco mais sobre circuitos integrados.
 
 ## Demonstração
-[![Imagem do circuito do contador](fotoContador.jpg)](https://clipchamp.com/watch/9g1t7McIASc)
+[![Imagem do circuito do contador](contador_foto.jpg)](https://clipchamp.com/watch/9g1t7McIASc)
 
 ## Componentes
 
