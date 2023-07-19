@@ -21,8 +21,8 @@ O contador de décadas foi um trabalho acadêmico de hardware, elaborado no 2° 
 
 Esse trabalho foi elaborado com muito carinho por
 
-- Ana
-- Beatriz Keppel
-- Mariana Aram
-- [Paula Talim](https://github.com/Paula-Talim)
-- Yago Garzon
+- Ana Beatriz Santos de Oliveira
+- Beatriz Vaz Keppel
+- [Mariana Aram](https://www.linkedin.com/in/mariana-aram-silva-a766b623b/)
+- [Paula Talim](https://www.linkedin.com/in/paulatalim/)
+- [Yago Garzon](https://www.linkedin.com/in/yago-garzon-chaves-7b57451b3/)
